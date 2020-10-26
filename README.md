@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/sjordan0227/sjordan/_apis/build/status/stuartjordan.MicrosoftDocs-pipelines-java?branchName=dependabot%2Fmaven%2Fjunit-junit-4.13.1)](https://dev.azure.com/sjordan0227/sjordan/_build/latest?definitionId=1&branchName=dependabot%2Fmaven%2Fjunit-junit-4.13.1)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
